@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-    private enum TypeOfNumber {EVEN , ODD};
+    private enum TypeOfNumber {EVEN , ODD}
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
